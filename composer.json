@@ -1,0 +1,22 @@
+{
+    "name": "mohamed-oussemou/hollo",
+    "autoload": {
+        "psr-4": {
+            "MohamedOussemou\\Hollo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "med"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MonApp\\Tests\\": "tests/"
+        }
+    }
+
+}
