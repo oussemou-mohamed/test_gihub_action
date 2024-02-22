@@ -1,15 +1,12 @@
 {
-    "name": "mohamed-oussemou/hollo",
+    "name": "oussemou-mohamed/test_gihub_action",
+    "description": "Une brève description de votre projet",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "MohamedOussemou\\Hollo\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "med"
-        }
-    ],
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
@@ -18,5 +15,4 @@
             "MonApp\\Tests\\": "tests/"
         }
     }
-
 }
